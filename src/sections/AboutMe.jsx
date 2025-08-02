@@ -30,7 +30,7 @@ const AboutMe = () => {
             alt="Profile"
             className="rounded-full w-48 h-48"
           />
-          <a href="/Gopesh-Goyal-Resume.pdf" download className="md:w-80 md:h-16 w-60 h-12 cta-wrapper">
+          <a href="/Gopesh_Goyal-Resume.pdf" download className="md:w-80 md:h-16 w-60 h-12 cta-wrapper">
             <div className="cta-button group">
               <div className="bg-circle" />
               <p className="text">Resume</p>
