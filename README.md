@@ -210,5 +210,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ⭐ **Star this repository if you found it helpful!**
 
-🔗 **Live Demo**: [Add your deployment URL here]
-📧 **Contact**: [Add your contact information]
+🔗 **Live Demo**: https://gopeshgoyal.vercel.app/
+📧 **Contact**: gopeshgoyal26@gmail.com
